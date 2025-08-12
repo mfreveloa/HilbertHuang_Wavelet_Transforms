@@ -42,6 +42,6 @@ pip install -r requirements.txt
 jupyter lab
 
 ### R notebook
-```bash
 install.packages(c("IRkernel", "WaveletComp", "biwavelet"))
 IRkernel::installspec(user = TRUE)  # enable the R kernel in Jupyter
+
